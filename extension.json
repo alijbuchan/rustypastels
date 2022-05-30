@@ -1,0 +1,8 @@
+{
+    "identifier": "org.rustypastels",
+    "name": "rustypastels",
+    "organization": "alijbuchan",
+    "description": "based on the vim rebelot/kanagawa colours and in turn Hokusai paintings",
+    "version": "0.1",
+    "categories": ["themes"]
+}
